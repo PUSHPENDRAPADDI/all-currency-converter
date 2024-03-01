@@ -1,0 +1,28 @@
+{
+  "name": "all-currency-converter",
+  "version": "1.0.1",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUSHPENDRAPADDI/all-currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "Currency Converter",
+    "Currency"
+  ],
+  "author": "Pushpendra Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PUSHPENDRAPADDI/all-currency-converter/issues"
+  },
+  "homepage": "https://github.com/PUSHPENDRAPADDI/all-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
